@@ -1,0 +1,27 @@
+[
+    {
+      "claimId": "#123456",
+      "purpose": "Event Booking Refund",
+      "dateClaimed": "4, Nov 2024",
+      "amount": "$2200"
+    },
+    {
+      "claimId": "#123456",
+      "purpose": "Event Booking Refund",
+      "dateClaimed": "4, Nov 2024",
+      "amount": "$2200"
+    },
+    {
+      "claimId": "#123456",
+      "purpose": "Event Booking Refund",
+      "dateClaimed": "4, Nov 2024",
+      "amount": "$2200"
+    },
+    {
+      "claimId": "#123456",
+      "purpose": "Event Booking Refund",
+      "dateClaimed": "4, Nov 2024",
+      "amount": "$2200"
+    }
+  ]
+  

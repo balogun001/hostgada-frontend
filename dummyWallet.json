@@ -1,0 +1,73 @@
+[
+    {
+      "claimId": "CLM-001",
+      "purpose": "Business Expansion",
+      "dateClaimed": "2024-01-15",
+      "amount": "₦500,000",
+      "status": "pending"
+    },
+    {
+      "claimId": "CLM-002",
+      "purpose": "Medical Expenses",
+      "dateClaimed": "2024-02-10",
+      "amount": "₦250,000",
+      "status": "successful"
+    },
+    {
+      "claimId": "CLM-003",
+      "purpose": "Education Fees",
+      "dateClaimed": "2024-03-05",
+      "amount": "₦150,000",
+      "status": "declined"
+    },
+    {
+      "claimId": "CLM-004",
+      "purpose": "Car Repair",
+      "dateClaimed": "2024-04-20",
+      "amount": "₦100,000",
+      "status": "pending"
+    },
+    {
+      "claimId": "CLM-005",
+      "purpose": "Home Renovation",
+      "dateClaimed": "2024-05-12",
+      "amount": "₦600,000",
+      "status": "successful"
+    },
+    {
+      "claimId": "CLM-006",
+      "purpose": "Emergency Travel",
+      "dateClaimed": "2024-06-08",
+      "amount": "₦80,000",
+      "status": "declined"
+    },
+    {
+      "claimId": "CLM-007",
+      "purpose": "Startup Funding",
+      "dateClaimed": "2024-07-02",
+      "amount": "₦1,000,000",
+      "status": "pending"
+    },
+    {
+      "claimId": "CLM-008",
+      "purpose": "Debt Repayment",
+      "dateClaimed": "2024-08-21",
+      "amount": "₦300,000",
+      "status": "successful"
+    },
+    {
+      "claimId": "CLM-009",
+      "purpose": "Vacation Trip",
+      "dateClaimed": "2024-09-14",
+      "amount": "₦200,000",
+      "status": "declined"
+    },
+    {
+      "claimId": "CLM-010",
+      "purpose": "Wedding Expenses",
+      "dateClaimed": "2024-10-30",
+      "amount": "₦700,000",
+      "status": "pending"
+    }
+  ]
+  
