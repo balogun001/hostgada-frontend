@@ -34,8 +34,12 @@ function Page() {
     handleSubmit,
     reset,
     register,
-    // watch,
+    watch,
   } = methods;
+
+  const email = watch('Email');
+  const password = watch('Password');
+  const isFormEmpty = !email || !password;
 
   const onSubmit: SubmitHandler<SignInSchemaType> = async (values) => {
     try {
@@ -85,7 +89,7 @@ function Page() {
                 type="submit"
                 className="!w-full !my-8"
                 isLoading={isSubmitting}
-                disabled={isSubmitting}
+                disabled={isSubmitting || isFormEmpty}
               >
                 Sign in
               </Button>
