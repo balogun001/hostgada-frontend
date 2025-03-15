@@ -18,6 +18,7 @@ export const responsive = {
   },
 };
 
+// TODO: Change the name of the file to BreakPoints.ts
 export const reviewResponsive = {
   // superLargeDesktop: {
   //   // the naming can be any, depends on you.
