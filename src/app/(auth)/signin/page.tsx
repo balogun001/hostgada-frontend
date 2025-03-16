@@ -9,6 +9,8 @@ import { BodyText, Title } from '@ui/Text';
 import { Wrapper } from '@ui/Wrapper';
 import Link from 'next/link';
 // import { useRouter } from 'next/router';
+// import FacebookIcon from 'src/assets/icons/FacebookIcon';
+// import GoogleIcon from 'src/assets/icons/GoogleIcon';
 import { FormProvider, SubmitHandler, useForm } from 'react-hook-form';
 import Motion from 'src/layout/motion';
 import {
@@ -85,6 +87,16 @@ function Page() {
                   </BodyText>
                 </Link>
               </div>
+              <Checkbox
+                label={
+                  <>
+                    I agree to the{' '}
+                    <span className="text-orange-700">
+                      Terms & Conditions and Privacy Policy
+                    </span>
+                  </>
+                }
+              />
               <Button
                 type="submit"
                 className="!w-full !my-8"
