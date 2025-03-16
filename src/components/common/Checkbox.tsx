@@ -20,7 +20,7 @@ export const Checkbox = forwardRef<HTMLInputElement, Props>(
       <div className={classNames('flex items-center gap-3', className)}>
         <input
           aria-describedby="comments-description"
-          className="h-4 w-4 rounded border-gray-300 text-orange-800 focus:ring-orange-800"
+          className="h-4 w-4 rounded border-gray-300 accent-[#fe974d] focus:ring-orange-500"
           id="comments"
           name="comments"
           ref={ref}
